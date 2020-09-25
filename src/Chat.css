@@ -45,7 +45,8 @@
   padding: 10px;
   background: #fff;
   border-radius: 10px;
-  width: fit-content ;
+  width: fit-content;
+  margin-bottom: 20px;
 }
 .message-received {
   margin-left: auto;
